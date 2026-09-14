@@ -93,4 +93,7 @@ The smoothed bedGraph files are converted to indexed **BigWig** files using the 
 
 The resulting BigWig tracks can be used for genome-browser visualization and downstream CUT&RUN signal analysis.
 
-### - Contact: Sora Yoon, Ph.D. <sorayoon@upenn.edu>
+
+#### - Reference: Yang, Yoon, Jaiswal et al., Recruitment of TEX15 by HUSH2 drives repression of multicopy gene families in fertility regulation., _Nature Communications_ (2026), _Accepted_
+
+#### - Contact: Sora Yoon, Ph.D. <sorayoon@upenn.edu>
