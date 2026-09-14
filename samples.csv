@@ -1,2 +1,4 @@
 cond,fq1,fq2
-CutAndRun_RSKIHA3_Tasor2_HA_RS_3,fastq/CutAndRun_RSKIHA3_Tasor2_HA_RS_3_R1_001.fastq.gz,fastq/CutAndRun_RSKIHA3_Tasor2_HA_RS_3_R2_001.fastq.gz₩
+CutAndRun_RS_Tasor2_HA_Rep1,fastq/CutAndRun_RS_Tasor2_HA_Rep1_R1_001.fastq.gz,fastq/CutAndRun_RS_Tasor2_HA_Rep1_R2_001.fastq.gz
+CutAndRun_RS_Tasor2_HA_rep2,fastq/CutAndRun_RS_Tasor2_HA_Rep2_R1_001.fastq.gz,fastq/CutAndRun_RS_Tasor2_HA_Rep2_R2_001.fastq.gz
+CutAndRun_RS_TAsor2_HA_rep3,fastq/CutAndRun_RS_Tasor2_HA_Rep3_R1_001.fastq.gz,fastq/CutAndRun_RS_Tasor2_HA_Rep3_R2_001.fastq.gz
