@@ -33,7 +33,7 @@ This Snakemake pipeline aligns multi-mapping reads by randomly assigning them to
 ## Run
 cd /my/working/directory
 
-snakemake --cores <number of cores>
+snakemake --cores 8
 
 ## Workflow
 
