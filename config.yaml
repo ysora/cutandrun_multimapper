@@ -1,0 +1,3 @@
+Reference: /mnt/disk1/Database/iGenomes/Mus_musculus/GENCODE_M25/fasta/GRCm38.primary_assembly.genome.fa
+samples: samples.csv
+chromsize: /mnt/disk1/Database/iGenomes/Mus_musculus/GENCODE_M25/star/chrNameLength.txt
