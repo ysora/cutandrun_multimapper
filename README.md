@@ -94,7 +94,7 @@ The smoothed bedGraph files are converted to indexed **BigWig** files using the 
 The resulting BigWig tracks can be used for genome-browser visualization and downstream CUT&RUN signal analysis.
 
 
-#### Citation
+#### - Citation
 
 This pipeline was developed and used for the analysis presented in:
 
