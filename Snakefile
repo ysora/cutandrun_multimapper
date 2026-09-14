@@ -316,7 +316,7 @@ rule smooth_cpm_bedGraph_300:
         BIN=30,
         SMOOTH=300,
         MODE="mean"   # "mean" or "gaussian"
-    message: "Smoothing on: {input.frame}"
+    message: "Smoothing on: {input}"
     shell:
         """
         set -euo pipefail
