@@ -98,6 +98,6 @@ The resulting BigWig tracks can be used for genome-browser visualization and dow
 
 This pipeline was developed and used for the analysis presented in:
 
-Yang, Yoon, Jaiswal et al. Recruitment of TEX15 by HUSH2 drives repression of multicopy gene families in fertility regulation. _Nature Communications_. Accepted for publication.
+Yang, Yoon, Jaiswal et al. Recruitment of TEX15 by HUSH2 drives repression of multicopy gene families in fertility regulation. _Nature Communications_. _In press._
 
 #### - Contact: Sora Yoon, Ph.D. <sorayoon@upenn.edu>
